@@ -1,0 +1,12 @@
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.exe.config
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.exe
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.pdb
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.csprojAssemblyReference.cache
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.exe
+C:\Users\Priyadharshini\source\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.pdb
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.exe.config
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.exe
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\bin\Debug\OnlineJewelShopping.pdb
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.csprojAssemblyReference.cache
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.exe
+D:\repos\OnlineJewelShopping\OnlineJewelShopping\obj\Debug\OnlineJewelShopping.pdb
